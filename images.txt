@@ -1,10 +1,4 @@
-# archivebox
-archivebox/archivebox:latest
-valeriansaliou/sonic:latest
-theasp/novnc:latest
---platform=linux/arm64 nginx:alpine
-pihole/pihole:latest
-linuxserver/wireguard:latest
-webrecorder/pywb:latest
+# koishi
+koishijs/koishi
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
